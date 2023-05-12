@@ -3,10 +3,10 @@
  * Open Source Social Network
  *
  * @package   (openteknik.com).ossn
- * @author    TheDoggybrad
- * @copyright (C) TheDoggyBrad
- * @license   MIT License https://opensource.org/license/mit/
- * @link      https://github.com/thedoggybrad
+ * @author    TheDoggybrad and its original authors
+ * @copyright (C) OpenTeknik LLC
+ * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @link      https://www.opensource-socialnetwork.org/
  */
 
 function reduce_images_size_init() {
