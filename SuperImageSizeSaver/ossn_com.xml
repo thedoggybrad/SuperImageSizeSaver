@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>SuperImageSizeSaver</name>
+    <id>SuperImageSizeSaver</id>
+    <author>TheDoggyBrad</author>
+    <description>This component is for those wanting to only save storage on their servers and does not care much on quality but giving still a viewable image.</description>
+    <license>MIT License</license>
+    <author_url>http://github.com/thedoggybrad/</author_url>
+    <license_url>https://opensource.org/license/mit/</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.6</version>
+	</requires>
+</component>
