@@ -13,3 +13,8 @@ This component is a fork of: https://www.opensource-socialnetwork.org/component/
 <br>
 <br>
 Official Component Listing: https://www.opensource-socialnetwork.org/component/view/6554/superimagesizesaver
+<br>
+<br>
+Now uses the OSSN License: https://github.com/thedoggybrad/SuperImageSizeSaver/blob/main/license.md
+<br>
+This is due to this forked component has been forced to use that license, formerly I use my favorite MIT License. Just to avoid legal troubles.
