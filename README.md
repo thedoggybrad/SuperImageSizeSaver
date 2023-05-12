@@ -4,3 +4,6 @@
 Minimum Requirement: Version 5.6
 <br>
 Tested up to: Version 7.0
+<br>
+<br>
+Download Link: https://github.com/thedoggybrad/SuperImageSizeSaver/releases/download/1.0f/SuperImageSizeSaver.zip
