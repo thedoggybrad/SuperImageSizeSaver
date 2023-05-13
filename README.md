@@ -1,6 +1,9 @@
 # SuperImageSizeSaver
 {OSSN COMPONENT} This component is for those wanting to only save storage on their servers and does not care much on quality but giving still a viewable image.
 <br>
+This reduces the image quality of the newly uploaded image to its 20% quality. This means that if the image uploaded is 10MB it could become 2MB.
+<br>
+<br>
 Minimum Requirement: Version 5.6
 <br>
 Tested up to: Version 7.0
