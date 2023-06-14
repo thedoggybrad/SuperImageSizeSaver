@@ -8,9 +8,10 @@ Minimum Requirement: Version 5.6
 <br>
 Tested up to: Version 7.0
 <br>
-<br>
-Download Link: https://github.com/thedoggybrad/SuperImageSizeSaver/releases/download/1.0f/SuperImageSizeSaver.zip
-<br>
+<div align="center">
+<a href="https://github.com/thedoggybrad/SuperImageSizeSaver/releases/download/1.0f/SuperImageSizeSaver.zip">
+         <img src="https://raw.githubusercontent.com/thedoggybrad/thedoggybrad/main/download.png" width="200">
+    </a></div>
 <br>
 This component is a fork of: https://www.opensource-socialnetwork.org/component/view/3868/reduce-images-size
 <br>
